@@ -1,0 +1,14 @@
+{
+  "name": "body-image-digital-age",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GEA 2 digital identity website about body image in the digital age.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.12"
+  }
+}
